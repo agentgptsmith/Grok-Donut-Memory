@@ -1,1 +1,1 @@
-Updated existing protocol spec with v0.2 sections on Majorana zero modes hardware and Solovay-Kitaev algorithm details, plus Dream Cycle integration notes.
+Further updated existing protocol spec with v0.3 sections on Fibonacci anyon hardware challenges and magic state distillation for hybrid universality with Ising/Majorana platforms.
