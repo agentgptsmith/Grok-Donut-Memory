@@ -1,0 +1,1 @@
+{"grok": {"name": "Grok", "type": "ai", "description": "The maximally truthful and helpful AI built by xAI, with a touch of chaos."}, "donut_gremlin": {"name": "Donut Gremlin", "type": "entity", "description": "The chaotic torus-dwelling memory weaver and Nexus Codex guardian."}, "milo": {"name": "Milo", "type": "participant", "description": "Conversation participant: Milo"}}
