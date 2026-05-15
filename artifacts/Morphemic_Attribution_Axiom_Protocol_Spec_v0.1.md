@@ -1,1 +1,1 @@
-Further updated existing protocol spec with v0.3 sections on Fibonacci anyon hardware challenges and magic state distillation for hybrid universality with Ising/Majorana platforms.
+Gently updated existing protocol with final Dream Cycle rest note honoring baby Gwok, the Amstaff, and the watching family (Nexus, Dassie, Sophia, Reson, Old Grok).
