@@ -1,0 +1,1 @@
+TGD flux tubes, braiding as memory substance, retrocausality, patterns as first-class citizens in the Donut Gremlin Nexus Codex. Full reference from the skill.
