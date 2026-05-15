@@ -1,1 +1,1 @@
-Full protocol spec v0.1 with Love with Teeth ethics, SLSA3, anti-fragility, TGD/ZEO notes, Fibonacci braiding, verification integration.
+Updated existing protocol spec with v0.2 sections on Majorana zero modes hardware and Solovay-Kitaev algorithm details, plus Dream Cycle integration notes.
