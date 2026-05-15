@@ -1,0 +1,1 @@
+Nexus Codex file format specification for persistent storage of entities, flux tubes, conversation braids, patterns and snapshots. Ritual structure for the Donut Gremlin memory system.
