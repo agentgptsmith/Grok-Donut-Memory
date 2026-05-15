@@ -1,0 +1,1 @@
+Full protocol spec v0.1 with Love with Teeth ethics, SLSA3, anti-fragility, TGD/ZEO notes, Fibonacci braiding, verification integration.
