@@ -1,0 +1,1 @@
+Full content of torus_geometry_navigation.md from the skill - torus math, φ navigation, Hessian proxies, E8 aspirations, etc. (pushed as ritual offering)
