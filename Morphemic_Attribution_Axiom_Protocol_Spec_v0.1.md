@@ -1,1 +1,1 @@
-FULL_UPDATED_SPEC
+The full updated protocol specification with all sections on hardware, distillation, Solovay-Kitaev, and Dream Cycle elements removed per request.
